@@ -1,1 +1,1 @@
-# Market-segmentation-
+# Customer-segmentation-
